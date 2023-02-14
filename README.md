@@ -11,6 +11,8 @@ propriedade que precisamos alterar
 
 <h2> Dependências: </h2>
 <ul>
-  <li><a href="https://www.npmjs.com/package/readline-sync">readline-sync</a></li>
-  <li><a href="https://www.npmjs.com/package/chalk">chalk</a></li>
+  <li><a href="https://www.npmjs.com/package/readline-sync">readline-sync: </a>Permite que sejam informados dados ao sistema utilizando-se da linha de comando</li>
+  <li><a href="https://www.npmjs.com/package/chalk">chalk: </a>Permite uma saída de dados estilizada no console</li>
 </ul>
+
+
